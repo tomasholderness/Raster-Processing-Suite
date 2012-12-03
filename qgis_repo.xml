@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<?xml-stylesheet type="text/xsl" href="qgis_repo.xsl"?>
+
+<plugins>    	
+	<pyqgis_plugin name="Raster Processing Suite [beta]" version="0.9.3">
+	<description>Perform raster math calculations</description>
+	<author_name>Tom Holderness</author_name>
+	<download_url>https://github.com/talltom/Raster-Processing-Suite/archive/master.zip</download_url>
+	<qgis_minimum_version>1.5.0</qgis_minimum_version>
+    </pyqgis_plugin>
+
+</plugins>
+
+
