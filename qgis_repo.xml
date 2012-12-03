@@ -5,7 +5,7 @@
 	<pyqgis_plugin name="Raster Processing Suite [beta]" version="0.9.3">
 	<description>Perform raster math calculations</description>
 	<author_name>Tom Holderness</author_name>
-	<download_url>https://github.com/talltom/Raster-Processing-Suite/blob/master/raster_processing_suite.zip?raw=true</download_url>
+	<download_url>http://talltom.github.com/Raster-Processing-Suite/downloads/raster_processing_suite.zip</download_url>
 	<qgis_minimum_version>1.5.0</qgis_minimum_version>
     </pyqgis_plugin>
 
